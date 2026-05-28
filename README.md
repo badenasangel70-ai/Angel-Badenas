@@ -44,6 +44,7 @@ The primary objective of this work is to showcase practical competence in electr
 - # 🔗 Angel Badenas
 
 📍 **Puerto Princesa City, Palawan, Philippines** 📖 
-**BSELE – Fullbright College**
+**Fullbright  College**
+**BSELE – IRREG**
 
 > "Driven by curiosity, powered by electronics"
