@@ -1,26 +1,24 @@
+# ECE_ESP32_PCB_BADENAS
 
-## ECE_ESP32_PCB_BADENAS
-
-## Project Description ##
+## 📝 Project Description
 This repository hosts a custom-engineered circuit board design developed to satisfy Electronics Engineering academic criteria. Inside, you will find a complete set of design documentation, including the circuit schematics, board track layouts, production-ready Gerber files, original source files, and visual captures documenting the engineering and fabrication workflow.
 
 The primary objective of this work is to showcase practical competence in electronic design automation, featuring structured component placement, optimized signal routing, and methodical hardware implementation.
 
+---
+
 ## 🚀 Features
+* **Optimized PCB Layout & Routing** – Precision component placement designed for maximum efficiency.
+* **Professional Schematic Diagrams** – Clean, well-structured, and easy-to-read circuit schematics.
+* **3D Modeling & Verification** – Detailed 3D board rendering to guarantee a perfect mechanical fit.
+* **Manufacturing-Ready Gerber Files** – Standard, error-free production files optimized for fabrication.
+* **Full Design Source Files** – Delivery of completely editable and accessible project files.
+* **Enclosure-Optimized Designs** – Compact, high-functionality layouts tailored to your specific size requirements.
 
-- Optimized PCB Layout & Routing – Precision component placement designed for maximum efficiency.
+---
 
-- Professional Schematic Diagrams – Clean, well-structured, and easy-to-read circuit schematics.
+## 🛠️ Components Used
 
-- 3D Modeling & Verification – Detailed 3D board rendering to guarantee a perfect mechanical fit.
-
-- Manufacturing-Ready Gerber Files – Standard, error-free production files optimized for fabrication.
-
- - Full Design Source Files – Delivery of completely editable and accessible project files.
-
--  Enclosure-Optimized Designs – Compact, high-functionality layouts tailored to your specific size requirements.
-
-## Components Used
 | # | Component | Designator | Footprint / Description |
 |---|---|---|---|
 | 1 | ESP32-Devkit V1 | J5 | ESP32-DEVKIT-V1-30PIN Module |
@@ -35,18 +33,19 @@ The primary objective of this work is to showcase practical competence in electr
 | 10 | GPIO Breakout Headers | J1, J2, J3, J4, J6 | 15-Pin Connectors (5 sets) |
 | 11 | Auxiliary Pin Header | J8 | 2X2 Dual-Row Header |
 
-## Software Used
+---
 
-- EasyEDA
-- PCB Design Software
-- Gerber Export Tools
+## 💻 Software Used
+* **EasyEDA** — PCB Design Software & Layout Tool
+* **Gerber Export Tools** — Production file generation
 
-- # 🔗 Angel Badenas
+---
 
-📍 **Puerto Princesa City, Palawan, Philippines** 📖 
-**Fullbright  College**
-**BSELE – IRREG**
+## 👤 Author Information
+* **Name:** Angel Badenas
+* **Course & Section:** BSELE – IRREG
+* **Institution:** Fullbright College
+* **Location:** Puerto Princesa City, Palawan, Philippines
 
 > "Driven by curiosity, powered by electronics"
->
-> https://github.com/badenasangel70-ai/IMAGES.git
+
