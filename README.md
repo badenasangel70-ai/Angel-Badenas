@@ -20,7 +20,7 @@ The primary objective of this work is to showcase practical competence in electr
 
 -  Enclosure-Optimized Designs – Compact, high-functionality layouts tailored to your specific size requirements.
 
-## Compunents Used
+## Components Used
 | # | Component | Designator | Footprint / Description |
 |---|---|---|---|
 | 1 | ESP32-Devkit V1 | J5 | ESP32-DEVKIT-V1-30PIN Module |
