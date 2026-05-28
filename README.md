@@ -43,8 +43,6 @@ The primary objective of this work is to showcase practical competence in electr
 
 - # 🔗 Angel Badenas
 
-**powered by watching movies, music, sleeping and writing*
-
 📍 **Puerto Princesa City, Palawan, Philippines** 📖 
 **BSELE – Fullbright College**
 
